@@ -1,0 +1,83 @@
+* Abundance Introduction
+
+** Welcome and Introduction
+  
+Hello! Thank your for the opportunity to share with you today!
+This presentation is the first part of an introduction to a big
+subject which, when I have to distill it down to one word, I
+like to call /Abundance/.
+
+I should say immediately that by /Abundance/ I don't mean
+"having lots of stuff". Instead, I'll be introducing you to
+/Abundance/ as a powerful and valuable /Context/, /Paradigm/ and
+/Culture/. I'll being more fully explaining what I mean by these
+three fancy words shortly.
+
+For now, let's just say that
+      - /Contexts/ tell us what things mean
+      - /Paradigms/ are the Big Contexts for /Cultures/
+and together they have a tendency to puppet us and to get in the
+way of communicating new ideas.
+
+I'm hoping that this presentation piques your curiosity and that
+you will visit my website to learn more about everything I'm
+going to present here and links to the sources which I'll be
+referencing here.
+
+I'll be introducing myself and my peculiar viewpoint on the
+world as we go along. If you want a handle, you can call me
+/Touch/ or /Heart-Touch/, names which I was given at /Burning
+Man/. If I have a chance, I'll speak about how my experience of
+/Burning Man/ has inspired and informed my understanding of
+Abundance; otherwise, you'll find that material on my website.
+
+** Sources
+
+I've come to my current understanding of /Abundance/ through a
+number of sources. I'd like to acknowledge a few of those right
+away. Then I'll share some of what I've learned from a few of
+those sources.
+
+- Riane Eisler :: Riane Eisler's distinction of /Partnership
+  Culture/ comes very close to what I mean by /Abundance
+  Culture/. Her writings have greatly clarified my understanding
+  of these matters. I'll be sharing more from her studies
+  shortly.
+- David Deutsch :: If you're at all a geek like me, I recommend
+  that you immediately watch David Deutch's TED Talks and if you
+  find them enlightening, read his book /The Beginning of
+  Infinity/.
+- The Open Culture Movement :: Sharing knowledge and
+  understanding is a key source of the richness of the modern
+  world. It is being accelerated by new understandings of /Free
+  Software/, /Maker Communities/ and much more. A great example
+  is /The Internet/, which is based almost entirely on /Open
+  Standards/ implemented by /Open Source Free Software/.
+- Zen, Taoism, Sufism :: I first discovered these spiritual and
+  philosophical traditions in the writings of /Alan Watts/. I
+  especially like this quote from the /Sufi/ poet /Rumi/:
+ #+begin_quote
+Out beyond ideas of wrongdoing
+and rightdoing there is a field.
+I’ll meet you there.
+ #+end_quote
+- Burning Man :: If you haven't already experienced Burning Man
+  culture, you should (1) set aside anything you've heard, (2)
+  visit the /culture/ part of their website which you can find
+  by googling "burning man culture".
+
+Okay, this is enough of a list for now - you'll have to read
+about my other key sources on my website! I'd like to share more
+deeply about what I've learned from a couple of these sources.
+
+** Next!
+
+Depending on the Audience, potential next pieces might be some
+subset of these:
+   
+[[File:abundance-and-burning-man.org][Abundance and Burning Man]]
+[[File:abundance-prerequisite-distinctions.org][Abundance Prerequisite Distinctions]]
+[[file:abundance-and-the-partnership-way.org][Abundance and The Partnership Way]]
+[[file:abundance-and-game-theory.org][Abundance and Game Theory]]
+[[file:abundance-example-water-policy.org][Abundance Example: Water Policy]]
+[[file:abundance-distinctions.org][Abundance Distinctions]]
