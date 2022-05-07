@@ -1,17 +1,21 @@
 * Abundance Talks
 
-These are drafts of some component parts of some presentations
-I'm planning for introducing the distinctions of Abundance to a
-diverse range of potentially interested folks.
+These are drafts of some pieces I'm planning on combining and
+presenting to introduce the distinctions of Abundance to a
+diverse range of awesome people.
 
-I'm planning on combining more than one of these pieces to
-create each talks. I don't want the talks to be too long, so if
+I'm not yet sure which pieces I'm going to combine to make
+the talks.  I don't want the talks to be too long and I want
+each one to advance the conversation in a way that leads the
+listener to want more!
+
 I'm going to cover all of this material - and probably some more
-material as well - I'm expecting to need to give three to four
+material as well. I'm expecting to wind up with three to four
 talks.
 
-I'm expecting to heavily revise and even to completely rewrite
-this material - and I need your feedback to do that effectively!
+I am planning on heavily revising and where necessary completely
+rewriting these pieces - and I need your feedback to do that
+effectively!
 
 ** Easier Pieces Ready for Feedback
    
