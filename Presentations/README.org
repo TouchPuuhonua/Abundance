@@ -20,7 +20,7 @@ effectively!
 ** Easier Pieces Ready for Feedback
    
 - [[file:abundance-introduction.org][Abundance Introduction]]
-- [[File:abundance-and-burning-man.org][Abundance and Burning Man]]
+- [[file:abundance-and-burning-man.org][Abundance and Burning Man]]
 - [[file:abundance-example-water-policy.org][Abundance Example: Water Policy]]
 - [[file:abundance-and-the-partnership-way.org][Abundance and The Partnership Way]]
 
@@ -29,7 +29,7 @@ effectively!
 This is an especially rich piece and I would like feedback on
 how to develop it so that interested people can get it:
    
-- [[File:abundance-prerequisite-distinctions.org][Distinctions For Abundance]]
+- [[file:abundance-prerequisite-distinctions.org][Distinctions For Abundance]]
 
 ** Less Ready for Feedback
 
