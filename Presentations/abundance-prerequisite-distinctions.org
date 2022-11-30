@@ -7,17 +7,24 @@ clarify what I mean by the terms /Context/, /Paradigm/ and
 By a /Context/ I mean a viewpoint which gives something meaning.
 Someone speaking English (or any other language) is just making
 noise unless you understand that language. Money has no meaning
-in an ancient culture which only practices gifting and barter.
-Perhaps in a future post-scarcity culture (as Roddenberry
-envisioned in /Star Trek/) money will no longer have meaning!
+in a hunter-gatherer society which only practices gifting and
+barter. Perhaps in a future post-scarcity culture (as
+Roddenberry envisioned in /Star Trek/) money will no longer have
+meaning and history students studying our era will struggle to
+understand the meaning we give it!
 
 A /Paradigm/ is a fancy name for a large context, one which is
 embraced by a whole community or society. Such a community or
-society also has a Culture - a set of practices along with a
+society also has a /Culture/ - a set of practices along with a
 shared interpretive context, i.e. a /Paradigm/. See how it all
-fits together? But what does a /Paradigm/ actually consist of?
+fits together? People in the same society tend to have a lot of
+shared assumptions, viewpoints, interpretations of what is what,
+etc. In short they share a lot of context or they live inside of
+the same Paradigm.
+
+But what does a /Paradigm/ actually consist of?
 Well, language. More precisely, large numbers of small
-linguistic expressions, like
+linguistic expressions called /Memes/.  For example
 
 - Men are beasts
 - Women are caring
@@ -27,13 +34,26 @@ linguistic expressions, like
 - You get what you pay for
 and on and on and on.
 
-Richard Dawkins coined the term /meme/ for these small
-linguistic fragments. The key feature of /memes/ are
+A lot of memes are superficial slogans. Others are behavior
+- Gender-specific grooming
+      - Hairstyles, clothing styles, makeup
+            - Which of these were different in previous generations?
+            - Which of these are different in other societies?
+- What memes can you find which mark subcultures?
+      - Conservative memes?  Progressive memes?  Libertarian memes?
+      - Foods? Language usage differences?  Dress style?
+      - Individual Memes are usually very specific
+      - Groups of memes tend to have mutually supportive themes
+    
+Richard Dawkins coined the term /meme/ to rhyme with /gene/ and
+suggested that like genes, they evolve by natural selection
 1. They maintain themselves in a population by being reproduced.
 2. They reproduce by /being expressed/ in some way by the
    members of that population, by someone /saying something/ or
    /doing something/ which reinforces that /meme/.
 3. That, like genes, they /evolve/ by /mutation/ and /selection/.
+4. Also like genes, memes co-evolve with other memes in the same
+   host and the same population
 
 In the course of /being expressed/, /variations/ on each meme
 occur. Some of those variations are re-expressed more often than
