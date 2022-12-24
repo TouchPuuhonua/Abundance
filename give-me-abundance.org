@@ -42,13 +42,14 @@ without the other side, Material Abundance:
   individual and group immersive simulations using open source
   computer game engines.  I will be working on this through [[https://github.com/GregDavidson/loel][the League
   of Extraordinary Learners]]
-- Targeted work on molecular biology and molecular nanotechnology as
-  the ultimate technologies for ending all material scarcity including
-  slowing and eventually stopping and reversing aging.  There are many
-  paths to programable molecular assemblers, just waiting for us to
-  make their development a priority.
+- Targeted work on nanoscale replicator technologies: molecular
+  biology and [[https://www.youtube.com/watch?v=Q9RiB_o7Szs][molecular nanotechnology]], the ultimate technologies for
+  ending all material scarcity including slowing and eventually
+  stopping and reversing aging.  There are many paths to programable
+  molecular assemblers, just waiting for us to make their development
+  a priority.
 
-This is a big gift I want, maybe the biggest.  It will require a great
+This is a big gift I want, maybe the biggest!  It will require a great
 diversity of people to fulfill it.  It will require many people to
 step up to fulfilling their dreams.  Operating from abundance
 leverages the resources of understanding, knowledge and replication
