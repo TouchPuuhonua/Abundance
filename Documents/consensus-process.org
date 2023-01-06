@@ -1,0 +1,202 @@
+#+TITLE: Modified Consensus
+#+SUBTITLE: A Group Decision-Making Process
+#+OPTIONS: num:nil
+
+* Modified Consensus Process
+
+I have significant training in and experience of using a group decision making
+process called /Modified Consensus Process/. I will attempt to clarify the nature
+and operation of this process and also make sure that it is not confused with
+any other process which might happen to use the same name.
+
+I have come to understand that there are serious flaws with
+- traditional democratic processes
+- strict "anyone may indefinitely block" consensus processes
+
+/Modified Consensus Process/ seems to work very well for decision making by
+groups of up to approximately 100 people who are
+- fairly well acquainted with one another
+- aligned in their fundamental values
+
+Larger and less cohesive groups might want to explore the more sophisticated
+process called /Sociocracy/.
+
+** Objectives, Principles, Context
+
+The objectives of /Modified Consensus Process/ are
+1. To make better decisions by harnessing the intelligence of all participants,
+   especially those who have differing viewpoints.
+2. To have everyone in the community, especially all leaders and prospective
+   leaders, trust one another as partners and allies and continue to contribute
+   their time and energy towards our goals and vision.
+
+/Modified Consensus Process/ is always operating as a powerful background
+context, promoting civil and win-win approaches to decision making. We invoke
+its methods explicitly when we need to make a decision and we have very
+different ideas of what would be best.
+
+While we may sometimes seem to have incompatible strategies and proposals, we
+agree to trust one another and understand that
+- everyone is seeing a valuable piece of the puzzle
+- our values and commitments are fundamentally aligned
+- when we are attached to our positions, we become stupid
+- when we get /on the same side of the table/
+      - we get smarter
+      - we are likely to find a better solution
+            - one which satisfies everyone's concerns
+            - and is /not/ a mere /compromise/
+
+/Modified Consensus Process/ is faster and/or better than an Oppositional,
+Competitive Process. Why? Because while /any/ process will sometimes bog down,
+Consensus Process
+- produces better decisions because of better understanding
+- does not produce collateral damage:
+      - it does not leave a dissatisfied, resentful minority
+
+Both as a process and as a background context, /Modified Consensus Process/
+helps protect our values, vision, goals and enterprises from being destroyed by
+clever authoritarians using rhetoric and other win-lose takeover strategies.
+
+** How It Works
+
+*** The Agreements Behind the Process
+
+We commit /to listen/ to everyone's viewpoint
+- what they're saying
+- where they're coming from
+- their fundamental concerns
+        
+We commit /to understand/ everyone's viewpoint
+- to /their/ satisfaction
+- listening to be educated and enlightened
+      - to have our understanding of the matter expanded
+- taking 100% - 100% responsibility in the matter
+
+We commit /to effectively communicate/ our viewpoints
+      - trusting in the intention of our listeners
+      - avoiding being long-winded or unclear
+      - working iteratively until we are understood
+      - taking 100% - 100% responsibility in the matter
+
+Everyone engages in finding/creating a solution which
+- addresses everyone's concerns and needs
+- may possibly borrow /elements/ from anyone's ideas
+even though it 
+- may not be what we previously thought was best or good
+- may not be any of the ideas proposed so far
+
+We have a fallback democratic mechanism should consensus fail and we agree to
+consider that to be a /nuclear option/ which may undermine our partnership and
+should not be part of any political win-lose strategy.
+
+*** The Regular Consensus Process
+
+- Proposals are made
+- Questions are asked
+- Objections may be made
+- Friendly amendments may be proposed and accepted or rejected
+- Alternative proposals may be introduced
+- Proposals may be withdrawn
+- Straw polls can be taken for
+      1. Do you think this proposal is on the right track?
+      2. Do you think there are any serious flaws in this proposal?
+      3. Do you think this proposal is complete and acceptable?
+- If there are no objections, a proposal can be passed by acclamation
+- If there are objections then
+      - Discussion can continue if
+            - there's sufficient time
+            - such discussion is being productive
+                  - e.g. people are learning
+      - A proposal can be postponed
+            - It can be referred to offline study by
+                  - an existing working group
+                  - an appointed sub-group
+                  - appropriate subject experts
+            - and then brought up again
+
+It is /always everyone's job/ to assist in /keeping all concerns alive/ in the
+conversation and assisting with /everyone being heard/.
+
+If anyone is exhausting the ability of the gathering to maintain their
+attention, especially by being long-winded or repetitious, the moderator or a
+member of the group should politely interrupt them on this basis. (The /Mankind
+Project/ uses the plea: "Have Mercy"!) In such a case the person speaking should
+stop. They might request someone to provide "active listening" of their points
+and then they should stand down. They can always take the floor again later if
+they feel that an important point they were trying to express has been missed.
+
+*** The Time-Limited Consensus Process
+
+When a decision on an issue must be made before a deadline
+- Get consensus on a time plan for making the decisions
+- Including sufficient time for iteration on any proposals
+- Same as the fast process, just condensed
+- Everyone agreeing in advance to be satisfied with
+      - Any safe and affordable solution
+      - /Sociocracy Principle:/ "Is it safe? Can we try it?"
+
+*** The Fallback Process: Voting
+
+Should any party consider that
+- Consensus Process has broken down
+- Making a prompt decision is vital
+They may call for a =Vote= to decide a matter
+
+A /preliminary vote/ must first be taken to
+- set aside Consensus Process
+- for this specific matter
+
+Any vote must achieve a a supermajority to pass
+- 80% is the default supermajority
+- a different level could have been agreed to
+- in advance and
+- for this clearly distinguished arena of issues
+
+The Process
+- =Person P= calls for a =Vote= on the proposal(s)
+- The =Moderator= does a /straw poll/ to see if there's sufficient agreement for
+  such a =Vote=
+- =Person P= might withdraw their call
+Otherwise
+- The proposals on the table are briefly stated by their proponents
+- The proposed voting method is stated by =Person P=, e.g.
+      - voting methods and options must already be well understood
+      - will friendly amendments be entertained?
+      - will any further questions be entertained?
+      - is it preference voting or something else?
+      - etc.
+- We take the initial vote on
+      - setting aside Consensus Process
+      - for this specific matter
+- The vote may fail to get a supermajority
+Otherwise
+- We engage in any allowed discussion
+- We hold the agreed =Vote=
+- If the =Vote= achieves a supermajority the issue is decided
+      - with all of the potential flaws of the democratic process
+
+** Creative Consensus and Commitments
+
+It is unacceptable to
+- Block consensus on a proposal as a strategy to get one's way
+- Agree or /go along/ when it seems to us that
+      - a proposal truly does not meet an important need
+      - issues and criticism have not been sufficiently understood
+- Try to game the system with any win-lose methods
+
+When =Person P= is aware that
+- any proposal they would prefer /will not/ achieve consensus
+- their objectives /have been understood/
+and there is a proposal on the table
+- which could achieve consensus
+- is not antithetical to any important need
+then =Person P= agrees to yield their position by either
+- joining with the possible consensus
+- abstaining from blocking the consensus
+
+Most of us have practiced strategies for /getting our way/. Most of us have had
+reason to fear the intentions of others and to fear /losing/. When we're in a
+group of colleagues we could potentially trust we tend to automatically use our
+familiar win-lose strategies which undermine trust. In order to benefit from
+/Modified Consensus Process/ we must retrain ourselves and our colleagues in
+win-win strategies and commit to a context of trust.
