@@ -1,8 +1,6 @@
 #+OPTIONS: toc:nil num:nil html-postamble:nil
 * Abundance Culture vs. Scarcity Culture
 
-More information at [[https://github.com/TouchPuuhonua/Abundance][My Abundance GitHub Repository]]
-
 |                 | Abundance             | Scarcity                |
 |-----------------+-----------------------+-------------------------|
 | Names           | Abundance Culture     | Scarcity Culture        |
@@ -44,3 +42,7 @@ More information at [[https://github.com/TouchPuuhonua/Abundance][My Abundance G
 | Education       | Learner Centered      | Administrator Centered  |
 |                 | Facilitation          | Teaching                |
 |                 | Curiosity-driven      | Obedience-driven        |
+
+More information at [[https://github.com/TouchPuuhonua/Abundance][My Abundance GitHub Repository]]
+
+Or browse [[https://touchpuuhonua.github.io/][my new GitHub website]] which is Open During Redesign and Reconstruction!
