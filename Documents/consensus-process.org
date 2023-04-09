@@ -11,7 +11,7 @@ the principles and practical methods which have allowed it to be such a success.
 
 Caveats: (1) What I'm calling /Modified Consensus Process/ here is likely
 somewhat different from other processes going by a similar name. (2) This
-document is an an early state of development of this process. This document is
+document is at an early state of development of this process. This document is
 currently stored on GitHub. Please post suggestions for its improvement as
 Issues and/or send me a pull request with your improvements.
 
