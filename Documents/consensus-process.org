@@ -4,10 +4,16 @@
 
 * Modified Consensus Process
 
-I have significant training in and experience of using a group decision making
-process called /Modified Consensus Process/. I will attempt to clarify the nature
-and operation of this process and also make sure that it is not confused with
-any other process which might happen to use the same name.
+I was fortunate to receive training in a group decision making process called
+/Modified Consensus Process/ and it has served me very well. I and used this
+process effectively with several organizations and would like to pass on some of
+the principles and practical methods which have allowed it to be such a success.
+
+Caveats: (1) What I'm calling /Modified Consensus Process/ here is likely
+somewhat different from other processes going by a similar name. (2) This
+document is at an early state of development of this process. This document is
+currently stored on GitHub. Please post suggestions for its improvement as
+Issues and/or send me a pull request with your improvements.
 
 I have come to understand that there are serious flaws with
 - traditional democratic processes
