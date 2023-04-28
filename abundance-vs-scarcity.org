@@ -43,6 +43,6 @@
 |                 | Facilitation          | Teaching                |
 |                 | Curiosity-driven      | Obedience-driven        |
 
-More information at [[https://github.com/TouchPuuhonua/Abundance][My Abundance GitHub Repository]]
+More information at [[https://github.com/TouchPuuhonua/Abundance#readme][My Abundance GitHub Repository]]
 
 Or browse [[https://touchpuuhonua.github.io/][my new GitHub website]] which is Open During Redesign and Reconstruction!

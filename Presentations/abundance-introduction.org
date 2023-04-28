@@ -1,7 +1,7 @@
 * Abundance Introduction
 
 ** Welcome and Introduction
-  
+
 Hello! Thank your for the opportunity to share with you today!
 This presentation is the first part of an introduction to a big
 subject which, when I have to distill it down to one word, I
@@ -81,3 +81,12 @@ subset of these:
 [[file:abundance-and-game-theory.org][Abundance and Game Theory]]
 [[file:abundance-example-water-policy.org][Abundance Example: Water Policy]]
 [[file:abundance-distinctions.org][Abundance Distinctions]]
+
+** Fragments for later
+
+I'd like to share some good news about our common human nature.  Most
+humans only like to play win-lose games in the context of sports and
+competitions.  And after we play those win-lose games, we return to
+being equals again.  For everything serious, we prefer to play win-win
+games.  Most of our win-lose contests we enjoy are part of an overall
+win-win of having fun together and learning!

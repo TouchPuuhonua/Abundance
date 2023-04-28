@@ -40,7 +40,7 @@ without the other side, Material Abundance:
 - Learner-based Education consistent with the ideas of Maria
   Montessori and Seymour Papert.  Most formal knowledge learned within
   individual and group immersive simulations using open source
-  computer game engines.  I will be working on this through [[https://github.com/GregDavidson/loel][the League
+  computer game engines.  I will be working on this through [[https://github.com/GregDavidson/loel#readme][the League
   of Extraordinary Learners]]
 - Targeted work on nanoscale replicator technologies: molecular
   biology and [[https://www.youtube.com/watch?v=Q9RiB_o7Szs][molecular nanotechnology]], the ultimate technologies for
