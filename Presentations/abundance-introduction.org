@@ -1,4 +1,4 @@
-* Abundance Introduction
+j* Abundance Introduction
 
 ** Welcome and Introduction
 
@@ -74,7 +74,7 @@ deeply about what I've learned from a couple of these sources.
 
 Depending on the Audience, potential next pieces might be some
 subset of these:
-   
+
 [[File:abundance-and-burning-man.org][Abundance and Burning Man]]
 [[File:abundance-prerequisite-distinctions.org][Abundance Prerequisite Distinctions]]
 [[file:abundance-and-the-partnership-way.org][Abundance and The Partnership Way]]
