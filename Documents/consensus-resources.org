@@ -1,0 +1,122 @@
+* Consensus Resources
+
+** Consensus Links
+
+- [[https://en.wikipedia.org/wiki/Consensus_decision-making][Consensus decision-making (Wikipedia)]]
+
+** Consensus vs. Voting
+
+- [[https://streetcivics.com/voting-vs-consensus-decision-making/][Voting vs. Consensus Decision-making (Street Civics)]]
+  - Extensive Article
+
+- [[https://www.differencebetween.net/miscellaneous/politics/difference-between-consensus-and-majority-rule][Difference Between: Consensus and Majority rule]]
+
+- [[https://sociocracy.academy/consent-consensus-voting][Comparing Consent, Consensus, and Voting Through the Lens of Sociocracy]]
+
+- [[https://shifton.com/blog/pros-cons-consensus-decision-making][Consensus Decision-Making at Work: When to Use It, When to Skip It]]
+
+*** Voting versus Consensus: Features Comparison and Variations
+
+See Sources section below.
+
+*First introductory paragraph* /from original source/
+
+As you begin working with new partners, it’s important to consider how
+you will make decisions—from the big resolutions to the ordinary,
+everyday choices. Who has the ultimate decision-making authority for
+the team? Will members be involved in making all decisions, or only
+some of them? Will the majority rule, or will all decisions require
+unanimous support?
+
+*Features List* /modified/
+- inspired by original table
+- informed by a somewhat different understanding of Consensus Process
+
+ Voting Description
+- Majority determines decisions
+  - Must define “majority” first!
+Consensus Description
+- All partners may voice a position.
+- All agree to support final decision,
+  - even when not favorite choice!
+
+Voting Advantages
+- Familiar, conventional.
+- Always produces a result.
+Consensus Advantages
+- Buy-in of/by all members.
+- All perspectives included.
+- Creative cooperation towards best decision.
+
+Voting Disadvantages
+- Minority viewpoints sidelined.
+- Less creative interaction.
+- Creates winners and losers.
+Consensus Disadvantages
+- Requires group commitment & experience.
+- May require expert facilitator.
+  - Otherwise may be tedious or even fail.
+
+Voting Variations
+- Plurality :: A large block of members supports a given decision.
+- Range Voting: Each member scores each option, option with the
+  highest average score wins.
+Consensus Variations
+- Fist-to-Five :: Team members use specific hand signals to
+  - fist :: block consensus
+  - one finger :: suggest changes
+  - two fingers :: discuss minor issues
+  - three fingers :: pass without discussion
+  - four fingers :: affirm the decision
+  - five fingers ::volunteer to take lead in implementing new decision
+- Red/Yellow/Green Colored Cards
+  - red card :: indicates opposition to decision
+  - yellow card :: indicates reservations
+  - green card :: signifies consent
+
+Voting Considerations
+- Group may need to decide which individuals are
+“voting” members (e.g., based on length of
+participation, attendance at a minimum number
+of meetings).
+
+Consensus Considerations
+- How experienced is the group?
+- What facilitator skills will be needed?
+- What visual aids might help keep things clear?
+- Are the issues relevant for everyone?
+  - Consider delegating issues to smaller groups.
+  - This leads towards Sociocracy.
+
+**** Sources
+
+These two sites have identical content
+- [[https://healthandlearning.org/wp-content/uploads/2017/04/Decision-Making-Models-Voting-versus-Consensus.pdf][Decision-Making Models: Voting versus Consensus Table (CAPT)]]
+- [[https://www.samhsa.gov/sites/default/files/resourcefiles/sptac-decision-making-models.pdf][Decision-Making Models: Voting Versus Consensus (samhsa.gov)]]
+
+Both reference this Article
+- /How do we make decisions?/
+  - Education Development Center, Inc. (2013).
+  - Retrieved from https://www.promoteprevent.org
+    - This website has changed!
+    - Can we find the original article there or via archive.org?
+
+** Consensus Allies
+
+These understandings and alternative processes are allied with the
+spirit of Consensus and provide useful resources and sometimes
+alternatives.
+
+*** NVC
+
+- Create a separate Document?
+
+- [[https://en.wikipedia.org/wiki/Nonviolent_Communication][Nonviolent Communication (Wikipedia)]]
+- CNVC's website seems to have become less useful
+- [[https://www.authenticcommunicationgroup.com/nonviolentcommunication][Nonviolent Communication (Authentic Communication)]]
+
+*** Sociocracy
+
+- Create a separate Document?
+
+- [[https://sociocracy.academy/][Sociocracy Academy]]
