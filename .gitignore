@@ -4,6 +4,8 @@ to-*
 *.itf
 *.swp
 *.log
+foo
+*.ed
 *~
 *#
 foo.*

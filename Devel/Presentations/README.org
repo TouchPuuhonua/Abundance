@@ -1,0 +1,38 @@
+* Abundance Talks
+
+These are drafts of some pieces I'm planning on combining and
+presenting to introduce the distinctions of Abundance to a
+diverse range of awesome people.
+
+I'm not yet sure which pieces I'm going to combine to make
+the talks.  I don't want the talks to be too long and I want
+each one to advance the conversation in a way that leads the
+listener to want more!
+
+I'm going to cover all of this material - and probably some more
+material as well. I'm expecting to wind up with three to four
+talks.
+
+I am planning on heavily revising and where necessary completely
+rewriting these pieces - and I need your feedback to do that
+effectively!
+
+** Easier Pieces Ready for Feedback
+   
+- [[file:abundance-introduction.org][Abundance Introduction]]
+- [[file:abundance-and-burning-man.org][Abundance and Burning Man]]
+- [[file:abundance-vs-scarcity-parable.org][Abundance Parable: Water Policy]]
+- [[file:abundance-example-water-policy.org][Abundance Example: Water Policy]]
+- [[file:abundance-and-the-partnership-way.org][Abundance and The Partnership Way]]
+
+** Really Needing Feedback
+
+This is an especially rich piece and I would like feedback on
+how to develop it so that interested people can get it:
+   
+- [[file:abundance-prerequisite-distinctions.org][Distinctions For Abundance]]
+
+** Less Ready for Feedback
+
+- [[file:abundance-and-game-theory.org][Abundance and Game Theory]]
+- [[file:abundance-distinctions.org][Abundance Distinctions]]

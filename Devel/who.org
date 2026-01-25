@@ -1,0 +1,31 @@
+#+OPTIONS: toc:nil num:nil html-postamble:nil
+* Who am I and what are my partners and I up to?
+
+My name is *Touch Puuhonua*. You can find out more about me at [[http://touch.puuhonua.org][My Website]].
+
+My life is organized around *Abundance Culture*, for example, 
+
+I volunteer and participate with
+
+- [[http://burningman.org][Burning Man]]
+- [[http://www.sdcap.org][SDCAP]]
+- [[http://sdyoutopia.com][YOUtopia]]
+- the [[http://hai.org][Human Awareness Institute (HAI)]]
+- [[http://www.nfnc.org][Network For a New Culture]]
+
+and other groups and organizations related to *Abundance Culture* in various roles:
+
+- Creator of [[https://www.fsf.org/about/what-is-free-software][Free Software]]
+- [[http://rangers.burningman.org][Black Rock Ranger]]
+- Author, Facilitator, Coach
+- Board Member of various Not-For-Profit organizations
+- etc.
+
+My friends and partners are currently working on many
+projects related to *Abundance Culture*.  We will soon have a
+Wiki to make our projects and activities more accessible.
+
+Please visit -- http://puuhonua.org/abundance -- for more
+information about *Abundance Culture*.
+
+You can contact me via [[http://touch.puuhonua.org][My Website]]

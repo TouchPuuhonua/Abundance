@@ -1,0 +1,148 @@
+* Distinctions and Abundance
+   
+Let me put on my Intellectual Geek Hat for a few minutes and
+clarify what I mean by the terms /Context/, /Paradigm/ and
+/Culture/. I'll also introduce the essential term /Meme/.
+
+By a /Context/ I mean a viewpoint which gives something meaning.
+Someone speaking English (or any other language) is just making
+noise unless you understand that language. Money has no meaning
+in a hunter-gatherer society which only practices gifting and
+barter. Perhaps in a future post-scarcity culture (as
+Roddenberry envisioned in /Star Trek/) money will no longer have
+meaning and history students studying our era will struggle to
+understand the meaning we give it!
+
+A /Paradigm/ is a fancy name for a large context, one which is
+embraced by a whole community or society. Such a community or
+society also has a /Culture/ - a set of practices along with a
+shared interpretive context, i.e. a /Paradigm/. See how it all
+fits together? People in the same society tend to have a lot of
+shared assumptions, viewpoints, interpretations of what is what,
+etc. In short they share a lot of context or they live inside of
+the same Paradigm.
+
+But what does a /Paradigm/ actually consist of?
+Well, language. More precisely, large numbers of small
+linguistic expressions called /Memes/.  For example
+
+- Men are beasts
+- Women are caring
+- Children should be obedient
+- Everyone has the right to an education
+- Schools are essential keys to Education
+- You get what you pay for
+and on and on and on.
+
+A lot of memes are superficial slogans. Others are behavior
+- Gender-specific grooming
+      - Hairstyles, clothing styles, makeup
+            - Which of these were different in previous generations?
+            - Which of these are different in other societies?
+- What memes can you find which mark subcultures?
+      - Conservative memes?  Progressive memes?  Libertarian memes?
+      - Foods? Language usage differences?  Dress style?
+      - Individual Memes are usually very specific
+      - Groups of memes tend to have mutually supportive themes
+    
+Richard Dawkins coined the term /meme/ to rhyme with /gene/ and
+suggested that like genes, they evolve by natural selection
+1. They maintain themselves in a population by being reproduced.
+2. They reproduce by /being expressed/ in some way by the
+   members of that population, by someone /saying something/ or
+   /doing something/ which reinforces that /meme/.
+3. That, like genes, they /evolve/ by /mutation/ and /selection/.
+4. Also like genes, memes co-evolve with other memes in the same
+   host and the same population
+
+In the course of /being expressed/, /variations/ on each meme
+occur. Some of those variations are re-expressed more often than
+the original form and may replace the original in circulation.
+This /memetic evolution/ is how a culture acquires a new
+/background understanding/ of bigger aspects of culture such as
+
+- human rights
+- gender
+- non-reproductive sexuality
+- justice
+- science
+and on and on and on.
+
+Most /Cultural Evolution/ occurs through /memetic evolution/
+rather than through anyone's conscious design. Memes are usually
+dependent on other memes, so for example the introduction of
+memes insisting that women are just as intelligent and valuable
+as men and should have the same rights and opportunities as men
+change the support for memes which express traditional gender
+roles of men and women. Change in key memes can cause a cascade
+of changes in many other memes leading to rapid cultural
+evolution. Yet as we shall see, memes have also evolved
+mechanisms to resist this kind of change!
+
+By the way, /Internet Memes/, i.e. catchy combinations of
+pictures with quotes got their name from Dawkin's term.
+/Internet Memes/ are indeed an example of Dawkin's /Memes/, and
+they are a tiny fraction of the Memes circulating in any
+culture. Most /Memes/ evolve without much conscious awareness on
+the part of the humans serving as their hosts and don't have a
+digital medium to maintain their form against the spontaneous
+occurrence of variations.
+
+/Memes/ are tricky things. I said that they are responsible for
+"background understanding" a few moments ago. They exist in
+plain sight, yet they are rarely noticed as what they are. They
+enormously influence our thinking without our realizing that
+influence. We may think that we're thinking, when we're actually
+just activating memes! We may think we're listening to someone
+but instead of hearing them, we pattern match what they're
+saying with familiar memes and then respond with memes
+expressing agreement or disagreement. Without paying attention
+to this phenomenon, we can be puppeted by the memes of the
+paradigm of our group and never know it. If you pay attention,
+you'll see people doing this everywhere. The real benefit is
+when you can catch yourself doing it!
+
+An attempt to present a viewpoint that is very different from
+our familiar viewpoint often evokes negative reactions. Such
+reactions can be the evolved defenses of memes maintaining
+coalitions of support for their continued existence in the
+default culture. It's important to give space to any such
+reactions. They can help us distinguish the new viewpoint from
+the old, familiar, conventional viewpoint. Ignoring or resisting
+such reactions will not help us present the new viewpoint and
+may even derail the whole conversation. It's often worthwhile to
+identify the entire reactive meme coalition and bring it into
+conscious awareness.
+
+As we discuss /Abundance/, avoid falling into the trap of either
+agreeing or disagreeing with what's being presented. /Abundance/
+is a /Paradigm/ which creates a certain /viewpoint/, not "the
+truth". Human beings mostly don't have access to "the truth" of
+complex situations. We have to work with /models/ which give
+useful /viewpoints/. It is important to realize that even the
+most illuminating viewpoint is not "the truth". You'll notice
+other people getting confused about this key distinction. Again,
+the big benefit for you is to catch /yourself/ when /you/
+collapse such distinctions!
+
+** On to Abundance
+
+Now that we have some useful language, we are ready to introduce
+/Abundance/ as a /New Paradigm/, distinct from anything the
+/Default Culture/ knows about "Abundance". We won't be able to
+get the /Distinctions of Abundance/ using the memes of the
+/Default Culture/ yet those memes will help us by providing
+contrast, by showing what Abundance /is not/.
+
+The first /is not/ we can address is that the /Abundance
+Paradigm/ has nothing to do with being financially abundant or
+having lots of nice things. The /Abundance Paradigm/ is a
+context which provides meaning for navigating any of life's
+circumstances, good or bad. A great way to see the distinction
+is to imagine having to deal with a calamity, such as an
+impending shortage of a vital resource.
+
+In the [[file:abundance-example-water-policy.org][Water Policy Example]], we can see some key aspects of the
+Abundance Paradigm
+- Win-Win vs. Win-Lose Interactions
+- Using creativity to invent and develop new knowledge
