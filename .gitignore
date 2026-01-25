@@ -3,6 +3,7 @@ to-*
 *.po
 *.itf
 *.swp
+*.log
 *~
 *#
 foo.*
