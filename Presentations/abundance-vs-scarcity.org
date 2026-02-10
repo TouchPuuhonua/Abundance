@@ -1,0 +1,47 @@
+#+OPTIONS: toc:nil num:nil html-postamble:nil
+* Abundance Culture vs. Scarcity Culture
+
+More information at http://puuhonua.org/abundance
+
+|                 | Abundance             | Scarcity                |
+|-----------------+-----------------------+-------------------------|
+| Names           | Abundance Culture     | Scarcity Culture        |
+|                 | Partnership Culture   | Dominator Culture       |
+|                 | New Culture           | Old Culture             |
+|                 | Next Culture          | Default Culture         |
+|-----------------+-----------------------+-------------------------|
+| Games           | Win-Win, All-Win      | Win-Lose                |
+|                 | Non-Zero-Sum, >0 Sum  | Zero-Sum, <0 Sum        |
+|                 | Cooperative           | Competitive             |
+|                 | Consensual            | Non-Consensual          |
+|                 | Anarchic              | Hierarchical            |
+|                 | Infinite              | Winner Take All         |
+|                 | Play                  | Dominance               |
+|-----------------+-----------------------+-------------------------|
+| Characteristics | Diversity             | Conformity              |
+|                 | Creativity            |                         |
+|                 | Self-Expression       |                         |
+|-----------------+-----------------------+-------------------------|
+| Roles           | Coordinator           | Boss / Director         |
+|                 | Co-Creator            | Worker vs. Consumer     |
+|                 | Participant           | Performer vs. Spectator |
+|-----------------+-----------------------+-------------------------|
+| Organization    | Grass-Roots           | Elite Organized         |
+|                 | Bottom-Up             | Top-Down                |
+|                 | Consensus             | Autocracy               |
+|                 | Partnership           | Win/Lose "Democracy"    |
+|                 | Transparency          | Information Control     |
+|-----------------+-----------------------+-------------------------|
+| Economics       | Stewardship           | Ownership               |
+|                 | Sustainability        | Exploitation            |
+|                 | Real Value Accounting | Money, Capitalism       |
+|                 | Right Livelihood      | Wage Slavery            |
+|-----------------+-----------------------+-------------------------|
+| Enterprise      | Empowerment           | Control                 |
+| Management      | Partnership           | Boss/Worker/Consumer    |
+|                 | Do-ocracy             | Approval Process        |
+|-----------------+-----------------------+-------------------------|
+| Education       | Learner Centered      | Administrator Centered  |
+|                 | Facilitation          | Teaching                |
+|                 | Curiosity-driven      | Obedience-driven        |
+|                 |                       |                         |
