@@ -158,8 +158,8 @@ Group Directions
 Discuss how you'd handle the following scenarios:
 
 **** Scenario 1:
-- You're living in a remote region of the world without affordable
-  trade.
+- You're living in a remote region of the world without good
+  trade networks.
 - The harvest has failed - it won't provide enough food for everyone
   for the winter!
 - This was foreseeable and you've made preparations.
