@@ -1,4 +1,9 @@
-* Abundance vs. Scarcity - A Parable
+#+TITLE: Robin & Chris
+#+SUBTITLE: An Abundance Parable
+#+AUTHOR: Touch Pu'uhonua
+#+OPTIONS: toc:nil 
+#+OPTIONS: num:nil
+#+OPTIONS: date:nil 
 
 Our characters are Robin and Chris.
 
