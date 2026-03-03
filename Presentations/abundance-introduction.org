@@ -1,4 +1,4 @@
-j* Abundance Introduction
+* Abundance Introduction
 
 ** Welcome and Introduction
 
@@ -62,9 +62,10 @@ and rightdoing there is a field.
 I’ll meet you there.
  #+end_quote
 - Burning Man :: If you haven't already experienced Burning Man
-  culture, you should (1) set aside anything you've heard, (2)
-  visit the /culture/ part of their website which you can find
-  by googling "burning man culture".
+  culture, you should
+  (1) Set aside anything you've heard!
+  (2) Visit the /culture/ part of their websit
+      - google "burning man culture"
 
 Okay, this is enough of a list for now - you'll have to read
 about my other key sources on my website! I'd like to share more
@@ -75,12 +76,12 @@ deeply about what I've learned from a couple of these sources.
 Depending on the Audience, potential next pieces might be some
 subset of these:
 
-[[File:abundance-and-burning-man.org][Abundance and Burning Man]]
-[[File:abundance-prerequisite-distinctions.org][Abundance Prerequisite Distinctions]]
-[[file:abundance-and-the-partnership-way.org][Abundance and The Partnership Way]]
-[[file:abundance-and-game-theory.org][Abundance and Game Theory]]
-[[file:abundance-example-water-policy.org][Abundance Example: Water Policy]]
-[[file:abundance-distinctions.org][Abundance Distinctions]]
+[[File:abundance-and-burning-man.org][- Abundance and Burning Man]]
+- [[File:abundance-prerequisite-distinctions.org][Abundance Prerequisite Distinctions]]
+- [[file:abundance-and-the-partnership-way.org][Abundance and The Partnership Way]]
+- [[file:abundance-and-game-theory.org][Abundance and Game Theory]]
+- [[file:abundance-example-water-policy.org][Abundance Example: Water Policy]]
+- [[file:abundance-distinctions.org][Abundance Distinctions]]
 
 ** Fragments for later
 
