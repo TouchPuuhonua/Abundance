@@ -1,0 +1,41 @@
+#+TITLE: What Is A Meme?
+#+OPTIONS: toc:nil 
+#+OPTIONS: num:nil
+#+OPTIONS: date:nil 
+#+OPTIONS: author:nil 
+
+** From [[https://www.nicklewis.org/social-sciences/evolutionary-psychology/the-selfish-gene-an-introduction-to-memetics][The Selfish Gene: An Introduction to Memetics]]
+
+Concerning [[https://en.wikipedia.org/wiki/The_Selfish_Gene][Chapter 11 | The Selfish Gene by Richard Dawkins]]
+
+[Edited to make the argument more universal.]
+
+Examples of memes are tunes, ideas, catch-phrases, clothes fashions,
+ways of making pots or of building arches. Just as genes propagate
+themselves in the gene pool by leaping from body to body via sperm or
+eggs, so memes propagate themselves in the meme pool by leaping from
+brain to brain via a process which, in the broad sense, can be called
+imitation. If a professor hears, or reads about, a good idea, they
+pass it on to their colleagues and students. They mention it in their
+articles and lectures. Everyone else is doing the same!  If the idea
+catches on, it can be said to propagate itself, spreading from brain
+to brain. As my colleague N.K. Humphrey neatly summed up an earlier
+draft of this chapter: "memes should be regarded as living structures,
+not just metaphorically but technically."
+
+When you plant a fertile meme in my mind you literally parasitize my
+brain, turning it into a vehicle for the meme's propagation in just
+the way that a virus may parasitize the genetic mechanism of a host
+cell.  And this isn't just a way of talking -- the meme for, say,
+"belief in life after death" is actually realized physically, millions
+of times over, as a structure in the nervous systems of individual
+human beings the world over.
+
+** Bottom Lines
+
+Memes, like Genes are Replicators which are copied imperfectly
+- creating diverse commpeting versions
+- and are subject to Natural Selection
+
+Memes Evolve to increase their fitness at doing their job:
+- Puppeting YOU!
