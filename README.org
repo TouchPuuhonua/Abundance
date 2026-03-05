@@ -1,11 +1,32 @@
-* Abundance
+* The Context of Abundance / Partnership / Win-Win / etc.
 
-Abundance is the unifying idea behind nearly everything I'm up to in my life.
+** What do we mean by Abundance, etc. here?
 
-I will soon have some wonderful material on Abundance which I'd like to
-inspire you to read, and I know that it's often easier to get into a rich
-topic with an audio or audiovisual introduction.
+We're distinguishing Abundance as a Context
 
-Therefore, I'm working on [[file:Presentations/README.org][Some Audiovisual Presentations!]] They're currently in
-draft form - would you like to give me some feedback to assist in their
-development?
+We don't mean Abundance in the sense of
+- Having plenty of whatever you want!
+
+We mean Abundance as
+- a Context for how you live your life
+- and especially as you interact with others!
+
+Please read the [[file:Presentations/robin-and-chris-abundance-parable.org][Robin and Chris Parable]] before proceeding!
+
+** Abundance Resources
+
+Please see
+
+- [[file:RESOURCES.org][Resources on Abundance and Partnership Context]]
+
+** Diverse Viewpoints on Abundance Aligned!
+
+Please explore this remarkable table
+
+- [[file:abundance-vs-scarcity.org][Abundance Culture vs. Scarcity Culture]]
+
+which shows the alignment of
+- Partnership vs. Dominator Culture (Riane Eisler)
+- Abundance vs. Scarcity (Maslow, et al)
+- Win-Win vs. Win-Lose (Game Theory)
+- etc.
