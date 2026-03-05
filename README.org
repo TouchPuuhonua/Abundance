@@ -1,4 +1,4 @@
-* The Context of Abundance / Partnership / Win-Win / etc.
+* Abundance and Partnership as Contexts
 
 ** What do we mean by Abundance, etc. here?
 
@@ -35,9 +35,24 @@ which shows the alignment of
 - Partnership vs. Dominator Culture (Riane Eisler)
 - Abundance vs. Scarcity (Maslow, et al)
 - Win-Win vs. Win-Lose (Game Theory)
-- etc.
+- and more!
+
+The alignment of these different perspectives improves our
+understanding of and our ability to effectively deal with Scarcity
+Contexts which get in our way.
 
  ** A Few Additional Notes
 
 Social Contexts are made of Memes!
-- please read [[file:meme-definition.org][Meme Definition]]
+- please read this [[file:meme-definition.org][Meme Definition]]
+
+We believe that subjecting almost all children to 13 or more years of
+Dominator-Paradigm "Education" is harmful to them and to society as a whole.
+There are many alternatives which have demonstrated their superiority, including
+- https://en.wikipedia.org/wiki/Montessori_education
+- https://en.wikipedia.org/wiki/Mastery_learning
+
+and the authors of this website invite your attention and possible
+participation with
+- [[https://gregdavidson.github.io/loel/][The League of Extraordinary Learners]]
+a Learning Community that's just getting started.
