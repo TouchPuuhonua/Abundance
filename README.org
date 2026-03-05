@@ -2,14 +2,20 @@
 
 ** What do we mean by Abundance, etc. here?
 
-We're distinguishing Abundance as a Context
+Human Beings are social creatures who
+- Grew Up In and Inhabit one or more Societies
+
+All Societies have a Culture
+- a Giant Shared Context (aka a Paradigm)
+which shapes the lives of everyone in the Society
+- often (usually!) without them recognizing that shaping!
+
+We're distinguishing Abundance as a Social Context
+- a Context for how you live your life
+- and especially as you interact with others!
 
 We don't mean Abundance in the sense of
 - Having plenty of whatever you want!
-
-We mean Abundance as
-- a Context for how you live your life
-- and especially as you interact with others!
 
 Please read the [[file:Presentations/robin-and-chris-abundance-parable.org][Robin and Chris Parable]] before proceeding!
 
@@ -30,3 +36,8 @@ which shows the alignment of
 - Abundance vs. Scarcity (Maslow, et al)
 - Win-Win vs. Win-Lose (Game Theory)
 - etc.
+
+ ** A Few Additional Notes
+
+Social Contexts are made of Memes!
+- please read [[file:meme-definition.org][Meme Definition]]
