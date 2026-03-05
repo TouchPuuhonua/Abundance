@@ -1,3 +1,124 @@
-* Anecdote: Resistance to Mastery Education at UCSD in the 1970s
+* Anecdote: Resistance to Mastery Education in the 1970s
 
-In
+** The Mastery-Learning Experiment
+
+In the 1970's a new approach to education was sweeping the world
+- [[https://en.wikipedia.org/wiki/Mastery_learning][Mastery Learning]]
+
+At that time I was studying Physics and Computer Science at UCSD, the
+University of California at San Diego.  Some UCSD professors
+redesigned some key conventional courses into Mastery Learning
+courses.
+
+One of the new Computer Science Mastery-Learning courses was required
+for all entering UCSD undergraduates.
+
+The new Psychology courses were part of the required curriculum for
+that Major.
+
+The Physics department only used the Mastery-Learning system for their
+Honors Student course.  Regular Physics students continued with the
+old-style classes.
+
+For the first year some of the new courses were run side-by-side with
+the conventional courses with students assigned at random to the two
+approaches.
+
+The conventional courses were graded on the usual bell-curve, e.g.
+- Top 20%: A
+- Next 25%: B
+- Middle 25%: C
+- Next 15%: D
+- Bottom 15%: F 
+
+But the mastery courses produced a different result, more like
+- Top 80%: A
+- Next 5%: B
+- Middle 5%: C
+- Next 5%: D
+- Bottom 5%: F 
+
+The professors compared the overall competence achieved by the 80%
+getting A's in the Mastery-Learning courses with the 20% elite of the
+conventional courses.  The difference was stark:
+- The students earning an A in the Mastery-Learning Courses
+- were Much Better than the 20% earning A's in the conventional courses!
+
+With that issue settled, the professors retired the conventional
+courses in favor of the new Mastery-Learning courses!
+
+** The Administration's Reaction
+
+The UCSD Administration came down heavily against the Mastery-Learning
+courses in the Psycnology and Computer Science curricula.  The
+administration claimed that the professors were ruining the quality of
+education by inflating the grades.
+
+The professors showed their solid proof that they were in fact
+increasing the quality of education.  The administration entirely
+disregarded the evidence.  The professors had tenure and refused to to
+go back to the old style of teaching.
+
+The administration tried to force the departments to go back to the
+conventional courses.  When that didn't work they let the new
+professors who didn't have tenure yet that if they associated
+themselves with any Mastery-Learning courses they would never get
+tenure, so they kept their distance.
+
+When the professors protecting the Mastery-Learning courses eventually
+retired, those courses were eliminated and the old-style bell curves
+showing mediocre learning were restored.
+
+A few extra points which we'll consider further later (below):
+- The administration didn't object to the Physics Department using
+  Mastery-Education for their special classes for Physics Honors
+  Students.
+- I was in the Honors Physics course and my girlfriend was in the
+  regular course.  I visited one of her classes after they'd taken a
+  major test.  The professor berated the class for their poor
+  performance and said that he was disgusted with how incompetent and
+  lazy American students were (I think he was British).  My girlfriend
+  said that he said that after every test.  His class was horrible.
+  The administration had no problem with it.
+- A professor in charge of the foreign language instruction program
+  created a new approach to teaching foreign languages which produced
+  fluency in less than a year, with no more effort than the previous
+  approach.  It was not based on Mastery-Learning, but rather
+  techniques specific to how human beings best learn languages.  The
+  University shut that down as soon as he retired.
+- I learned later that similar experiments with similar push-back were
+  happening world-wide around Mastery Learning and other improved
+  education systems.
+
+** Questions For You
+
+Before reading further, see if you can answer some of these questions:
+
+- What were the differences in objectives between the professors and
+  the administrators?
+- Who was operating in the contexts of
+  - Abundance, Partnership, Win-Win Games
+vs.
+  - Scarcity, Hierarchy, Win-Lose Games
+and WHY?
+
+- Why was it OK to use a better method for Honor's Students but not
+  for everyone?
+
+** What's going on?
+
+Most large educational organizations exist with a [[https://en.wikipedia.org/wiki/Dominator_culture][Dominator Culture]].
+
+Read
+- [[https://gregdavidson.github.io/loel/loel-paradigms.html][Paradigms, Beliefs and Practices Impacting Education]]
+which is part of
+- [[https://gregdavidson.github.io/loel/][LOEL: The League of Extraordinary Learners]]
+an On-Line Learning Community.
+
+Excellence in a Dominator System is based on a Win-Lose dynamic.
+- The value of an A grade or any other recognition of excellence is
+  based on how many more people are recognized as inferiors or
+  failures.
+- This requires creating a condition of Scarcity.
+- Anything which creates Abundance is, from the dominator perspective,
+  undermining the foundation of excellence!
