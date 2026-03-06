@@ -1,29 +1,34 @@
 * Abundance and Partnership as Contexts
 
-** What do we mean by Abundance, etc. here?
+** What do we mean by Abundance, etc. as Contexts?
 
-Human Beings are social creatures who
-- Grew Up In and Inhabit one or more Societies
+Human Beings are social creatures
+- We Grew Up In and Inhabit one or more Societies
 
-All Societies have a Culture
+All Societies have a Culture 
 - a Giant Shared Context (aka a Paradigm)
 which shapes the lives of everyone in the Society
 - often (usually!) without them recognizing that shaping!
 
-We're distinguishing Abundance as a Social Context
-- a Context for how you live your life
-- and especially as you interact with others!
+Abundance and Partnership can be part of a Social Context
+- shaping how you live your life
+- and especially how you interact with others!
 
-We don't mean Abundance in the sense of
+So we don't mean Abundance in the sense of
 - Having plenty of whatever you want!
+although a Context of Abundance and Partnership
+- Can make it more likely you'll get what you need!
 
-Please read the [[file:Presentations/robin-and-chris-abundance-parable.org][Robin and Chris Parable]] before proceeding!
+Before proceeding
+- please read the [[file:Presentations/robin-and-chris-abundance-parable.org][Robin and Chris Parable]]
 
 ** Abundance Resources
 
-Please see
+Please explore our
 
 - [[file:RESOURCES.org][Resources on Abundance and Partnership Context]]
+
+and we invite you to suggest others!
 
 ** Diverse Viewpoints on Abundance Aligned!
 
@@ -41,10 +46,7 @@ The alignment of these different perspectives improves our
 understanding of and our ability to effectively deal with Scarcity
 Contexts which get in our way.
 
- ** A Few Additional Notes
-
-Social Contexts are made of Memes!
-- please read this [[file:meme-definition.org][Meme Definition]]
+ ** Abundance and Partnership in Education
 
 We believe that subjecting almost all children to 13 or more years of
 Dominator-Paradigm "Education" is harmful to them and to society as a whole.
@@ -52,7 +54,20 @@ There are many alternatives which have demonstrated their superiority, including
 - https://en.wikipedia.org/wiki/Montessori_education
 - https://en.wikipedia.org/wiki/Mastery_learning
 
-and the authors of this website invite your attention and possible
+The authors of this website invite your attention and possible
 participation with
 - [[https://gregdavidson.github.io/loel/][The League of Extraordinary Learners]]
 a Learning Community that's just getting started.
+
+** Grounding the Etherial
+
+Contacts are material.  They are made of memes!
+
+Please read this concise [[file:meme-definition.org][Meme Definition]]!
+
+You can understand a society by paying attention to the memes being
+presented and exchanged in that society.
+
+You can understand yourself better by noticing the social memes which
+you've interalized and which are shaping your awareness and behavior
+- generally without you noticing the foreign influence!
