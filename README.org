@@ -48,26 +48,37 @@ Contexts which get in our way.
 
  ** Abundance and Partnership in Education
 
-We believe that subjecting almost all children to 13 or more years of
-Dominator-Paradigm "Education" is harmful to them and to society as a whole.
-There are many alternatives which have demonstrated their superiority, including
+The U.S. education system was heavily influenced by the 19th-century
+Prussian model, adopted in the 1830s-1850s to create a standardized,
+state-run system aimed at fostering obedience and conformity, it
+introduced compulsory attendance, age-based sorting, factory-style
+bells, and strict, teacher-led, standardized instruction.
+
+Many other countries have adopted similar systems.  We believe that
+subjecting almost all children to 13 or more years of this
+Dominator-Paradigm "Education" is harmful to them and to society as a
+whole.
+
+There are alternative education systems which are consistent with a
+partnership model and have demonstrated their superiority in terms of
+educational achievement, including
 - https://en.wikipedia.org/wiki/Montessori_education
 - https://en.wikipedia.org/wiki/Mastery_learning
 
-The authors of this website invite your attention and possible
-participation with
+If you're interested in Partership Education outside of institutions,
+we invite your attention and participation with our new Learning
+Community:
 - [[https://gregdavidson.github.io/loel/][The League of Extraordinary Learners]]
-a Learning Community that's just getting started.
 
 ** Grounding the Etherial
 
-Contacts are material.  They are made of memes!
+Contexts are material.  They are made of memes!
 
 Please read this concise [[file:meme-definition.org][Meme Definition]]!
 
-You can understand a society by paying attention to the memes being
-presented and exchanged in that society.
+You can understand a society by observing the memes being presented
+and exchanged in that society.
 
 You can understand yourself better by noticing the social memes which
-you've interalized and which are shaping your awareness and behavior
+you've internalized and which are shaping your awareness and behavior
 - generally without you noticing the foreign influence!

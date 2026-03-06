@@ -1,9 +1,5 @@
 * Resources on Abundance and Partnership as Contexts
 
-** Riane Eisler
-
-Riane Eisler 
-
 ** Powerful Short Videos
 
 *** [[http://www.thersa.org/events/rsaanimate][RSA Animates]]                                             :videos:website:
@@ -14,10 +10,13 @@ Riane Eisler
 ** League of Extraordinary Learners Collections
 
 ** [[http://arbinger.com][The Arbinger Institute]]                                :author:institution:
-These books and videos present an excellent and practical model for being more
-effective in our relationship to relating to young people and partners.
-The videos provide a quick introduction to material which the books go into
-much more deeply and thoroughly yet the books are short easy reads.
+
+These books and videos present an excellent and practical model for
+being more effective in our relationship with all kinds of partners.
+The videos provide a quick introduction to material which the books go
+into much more deeply and thoroughly, and: the books are short easy
+reads.
+
 - [[https://www.youtube.com/watch?v=YyhOT3jCcR4][Resolving the Heart of Conflict]] :video:
 - [[https://www.youtube.com/watch?v=sAeF-pGoAxM][The Anatomy of Peace]] :video:
 - [[http://arbinger.com/product/the-anatomy-of-peace][The Anatomy of Peace]] :book:
@@ -27,6 +26,7 @@ much more deeply and thoroughly yet the books are short easy reads.
 ** Win-Win vs. Win-Lose Games
 
 *** [[https://en.wikipedia.org/wiki/Robert_Wright_%28journalist%29][Robert Wright]] :journalist:philosopher:wikipedia:know_thyself:
+
 - [[http://www.nonzero.org/index.htm][Nonzero: The Logic of Human Destiny]] :book:game_theory:
 
 ** Moral Psychology
@@ -43,3 +43,29 @@ communicate across cultural differences!  Without this understanding learners wi
 - [[https://www.ted.com/talks/jonathan_haidt_the_moral_roots_of_liberals_and_conservatives][The moral roots of liberals and conservatives]] :video:tedtalk:
 - [[http://righteousmind.com][The Righteous Mind]] :book:
 - [[https://jonathanhaidt.com][Jonathan Haidt]] :personal_website:
+
+** More Communication Resources
+
+*** NVC: Non-Violent Communication
+
+Marshall Rosenberg and his associates developed an extraordinary model
+of communication based on deep empathic listening.  I like to call it
+"Empathic Communication" and it's usually just called NVC.
+
+Many books, videos and workshops teach the NVC model and how to use it
+effectively.
+
+**** An NVC Study (Reading & Practice) Group
+
+One of the best ways to learn NVC is to form a reading group with a
+few friends or neighbors who are interested in communication.  An NVC
+reading group generally reads the two books:
+- /Nonviolent Communication: A Language of Life/ by Marshall Rosenberg
+- /Nonviolent Communication Companion Workbook, 2nd Edition: A
+  Practical Guide for Individual, Group, or Classroom Study/ by Lucy
+  Leu
+a chapter every week.  Lucy's book has chapters corresponding to
+Marshall's chapters so your study group can read one chapter from each
+book every week or 2 weeks (or however often you meet).  Everyone does
+their best to practice what they read in their daily lives and then
+comes together to discuss what they discovered.
