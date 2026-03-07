@@ -1,8 +1,7 @@
 * Abundance and Partnership as Contexts
 
-If you're curious or weirded out
+Optional, but if you're curious or weirded out
 [[file:why-orgmode-and-git.org][- /What's with this file format and website?]]/
-- otherwise, don't worry about it!
 
 ** What do we mean by Abundance, etc. as Contexts?
 
@@ -10,7 +9,7 @@ Human Beings are social creatures
 - We Grew Up In and Inhabit one or more Societies
 
 All Societies have a Culture 
-- a Giant Shared Context (aka a Paradigm)
+- a Giant Shared Context (aka a Paradigm )
 which shapes the lives of everyone in the Society
 - often (usually!) without them recognizing that shaping!
 

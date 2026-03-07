@@ -1,4 +1,4 @@
-* Why [[https://orgmode.org/][OrgMode]], Git and Git Repositories?
+* Why OrgMode, Git and Git Repositories?
 
 ** Open Culture in Partnership Culture
 
@@ -8,6 +8,28 @@ Abundance happens when people are in partnership
 - Constructively criticising ideas and expressions
 - Improving and building on one another's ideas and expressions
 - etc.!
+
+See [[https://creativecommons.org/][The Creative Commons]]
+
+** TL;dr
+
+- [[https://orgmode.org/][OrgMode]] :: a file format which, despite being only plain text, can
+  represent almost any kind of information.  Check out the link!
+
+- Git :: a [[https://www.fsf.org/about/what-is-free-software][Free Software]] tool for supporting collaborative development
+  of collections of plain text files support small or large projects
+  being worked on be small or very large numbers of authors.  Although
+  Git was origially applied to collections of computer code, it is
+  fully general.
+
+- Git Repository :: A collection of files managed by Git.
+
+- Git Foundry :: A website which stores Git Repositories and makes
+  them available to authorized developers.
+
+- GitHub, GitLab, Codeberg, et al :: Large Git Repositories which
+  happen to offer free accounts for personal and not-for-profit
+  organizations (with limits).
 
 ** Problems and Interim Solutions
 
