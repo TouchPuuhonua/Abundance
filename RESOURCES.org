@@ -1,21 +1,84 @@
 * Resources on Abundance and Partnership as Contexts
 
-** Powerful Short Videos
+** [[https://rianeeisler.com/][Riane Eisler]]
+
+Riane Eisler is an extraordinary resource for understanding the basic
+ways that large societies are organized, i.e. primarily into either
+- [[https://en.wikipedia.org/wiki/Dominator_culture][Dominator Systems]]
+- Partnership Systems
+
+Eisler shows that both of these systems of organizing societies are
+natural options for human beings and goes further in identifying how
+these systems arise and change.  This understanding greatly
+illuminates many otherwise perplexing aspects of our (and every)
+society!
+
+Possibly the best introduction to Eisler's work is
+- [[https://rianeeisler.com/the-partnership-way-new-tools-for-living-and-learning/][The Partnership Way]]
+
+You can find all of her books at
+- [[https://rianeeisler.com/bookshelf/][Riane Eisler's Bookshelf]]
+
+*** Caveats about Riane Eisler
+
+It is typical of Dominator Culture to point to any flaw (real or
+invented) in another in order to dismiss them and their work.  In
+Partnership Culture, constructive criticism is offered as a gift and
+caveats are offered to assist in getting the best value out of
+something good.
+
+I offer these caveats to help you get the most value from Riane
+Eisler's work.  I do not wish to in any way undermine the tremendous
+value of her work!  I consider her work essential!
+
+**** Riane Eisler disparaging other people and their work
+
+In her introduction to /The Partnership Way/ Eisler makes negative
+remarks about Richard Dawkins and his extraordinary book /The Selfish
+Gene/.  Given that Richard Dawkins is a highly ethical person who
+explains how "selfish genes" (selfish is a metaphor, folks!) support
+altruistic behavior, it shows a serious lapse of understanding and
+judgement.
+
+This is an ironic example of how easy it is to fall into Dominator
+patterns!  In the sprit of her work, let's all be careful around
+expressing judgements (and how we couch them) when we have a shallow
+understanding of another viewpoint!  You'll find other resources in
+this collection to be very helpful with avoiding (or cleaning up) this
+kind of mistake!
+
+**** Nested Games
+
+Eisler sometimes seems not to understand nested games.  Within a
+Partnership Culture people may play dominator games, e.g. win-lose
+games for fun, training, etc.  This is /not/ a lapse of Partnership
+Culture!  What allows this to still be Partnership Culture are
+1. Consent!
+2. A clear beginning and end to the nested game.
+3. No diminishing of Partnership after the nested game is complete.
+
+Some great resources for understanding nested games are
+- the book /Nonzero/ (covered below)
+- [[https://en.wikipedia.org/wiki/Finite_and_Infinite_Games][Finite and Infinite Games by James P. Carse]]
+  - which deserves its own section here!
+
+** Resources from [[https://gregdavidson.github.io/loel/loel-media.html][The League of Extraordinary Learners Collection]]
 
 *** [[http://www.thersa.org/events/rsaanimate][RSA Animates]]                                             :videos:website:
+
+These short videos are like TED Talks - but better!
+- Worth watching more than once!
 
 - [[https://www.youtube.com/watch?v=u6XAPnuFjJc][What Motivates Us]] :video:psychology:know_thyself:
 - [[https://www.youtube.com/watch?v=zDZFcDGpL4U][Education Paradigms]] :video:learning:
 
-** League of Extraordinary Learners Collections
-
-** [[http://arbinger.com][The Arbinger Institute]]                                :author:institution:
+*** [[http://arbinger.com][The Arbinger Institute]]                               :author:institution:
 
 These books and videos present an excellent and practical model for
 being more effective in our relationship with all kinds of partners.
-The videos provide a quick introduction to material which the books go
-into much more deeply and thoroughly, and: the books are short easy
-reads.
+The videos provide a quick introduction to the material which the
+books go into much more deeply and thoroughly.  And the books are
+short easy reads!
 
 - [[https://www.youtube.com/watch?v=YyhOT3jCcR4][Resolving the Heart of Conflict]] :video:
 - [[https://www.youtube.com/watch?v=sAeF-pGoAxM][The Anatomy of Peace]] :video:
@@ -25,47 +88,56 @@ reads.
 
 ** Win-Win vs. Win-Lose Games
 
-*** [[https://en.wikipedia.org/wiki/Robert_Wright_%28journalist%29][Robert Wright]] :journalist:philosopher:wikipedia:know_thyself:
+*** [[https://en.wikipedia.org/wiki/Robert_Wright_%28journalist%29][Robert Wright]] :journalist:philosopher:know_thyself:
 
 - [[http://www.nonzero.org/index.htm][Nonzero: The Logic of Human Destiny]] :book:game_theory:
 
 ** Moral Psychology
 
-*** [[https://en.wikipedia.org/wiki/Jonathan_Haidt][Jonathan Haidt]] :wikipedia:moral_psychologist:know_thyself:
+*** [[https://en.wikipedia.org/wiki/Jonathan_Haidt][Jonathan Haidt]] :moral_psychologist:know_thyself:
 
 [[https://en.wikipedia.org/wiki/Moral_psychology][Moral Psychology]] is the study of human thought and behavior in ethical
-contexts.  It is one of the keys to understanding who we are as human
-beings.
+contexts.  It is a key to understanding who we are as human beings.
 
-Jonathan Haidt's particular work shows how to understand people and
-communicate across cultural differences!  Without this understanding learners will all-to-easily get trapped in parochial viewpoints.
+Jonathan Haidt's work shows how to understand and communicate across
+cultural (and political) differences.  This understanding should be
+considered essential!
 
 - [[https://www.ted.com/talks/jonathan_haidt_the_moral_roots_of_liberals_and_conservatives][The moral roots of liberals and conservatives]] :video:tedtalk:
 - [[http://righteousmind.com][The Righteous Mind]] :book:
 - [[https://jonathanhaidt.com][Jonathan Haidt]] :personal_website:
 
-** More Communication Resources
-
-*** NVC: Non-Violent Communication
+** NVC: Non-Violent Communication
 
 Marshall Rosenberg and his associates developed an extraordinary model
-of communication based on deep empathic listening.  I like to call it
-"Empathic Communication" and it's usually just called NVC.
+of communication based on deep empathic listening.  I think it should
+really be called "Empathic Communication" instead of NVC!
 
 Many books, videos and workshops teach the NVC model and how to use it
 effectively.
 
-**** An NVC Study (Reading & Practice) Group
+The principles of NVC are simple but go deep.  They're easy to
+unerstand and it takes time and focus to put them into practice.
 
-One of the best ways to learn NVC is to form a reading group with a
-few friends or neighbors who are interested in communication.  An NVC
-reading group generally reads the two books:
+*** NVC Study (Reading & Practice) Groups
+
+One of the best ways to learn NVC is to form a study group with a few
+friends or neighbors who are interested in communication.  An NVC
+study group generally uses the two books:
 - /Nonviolent Communication: A Language of Life/ by Marshall Rosenberg
 - /Nonviolent Communication Companion Workbook, 2nd Edition: A
   Practical Guide for Individual, Group, or Classroom Study/ by Lucy
   Leu
-a chapter every week.  Lucy's book has chapters corresponding to
-Marshall's chapters so your study group can read one chapter from each
-book every week or 2 weeks (or however often you meet).  Everyone does
-their best to practice what they read in their daily lives and then
-comes together to discuss what they discovered.
+Lucy's book has chapters corresponding to Marshall's chapters so a
+study group can read one chapter from each book every week or so
+(however often you meet).  Everyone does their best to put the
+material in each chapter into practice in their daily lives and then
+discuss what they discovered at the next meeting.
+
+It's nice to meet in person and it also works to do it as a video
+conference.
+
+** Help This List Grow!
+
+We invite your suggestion for what other resources should be in this
+collection!
