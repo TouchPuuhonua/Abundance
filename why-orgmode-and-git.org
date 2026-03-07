@@ -1,0 +1,41 @@
+* Why [[https://orgmode.org/][OrgMode]], Git and Git Repositories?
+
+** Open Culture in Partnership Culture
+
+Abundance happens when people are in partnership
+- Sharing ideas
+- Sharing how they do clever things (expressions of ideas)
+- Constructively criticising ideas and expressions
+- Improving and building on one another's ideas and expressions
+- etc.!
+
+** Problems and Interim Solutions
+
+Here are some problems we've encountered and our current solutions:
+
+1. We want producing and revising materials as easy as possible
+- OrgMode makes it extremely easy to create and revise documents!
+- especially if you have an OrgMode-aware editor
+  - We recommend [[https://github.com/GregDavidson/computing-magic/tree/main/Software-Tools/Emacs/#readme][Emacs]]!
+
+2. We want to provide materials in all popular formats
+- OrgMode documents can be easily translated into
+  - Web Pages
+  - Open Document Formats
+  - Google Doc Formats
+  - Microsoft Office Formats
+  - and more!
+
+3. We want easy Collaboration with Partners
+- This is what Git was designed for!
+- Ignore claims that Git is only for Computer Code!
+  - It's for any kind of text documents, e.g. OrgMode!
+
+4. We need an accessible and affordable website
+- GitHub, GitLab, CodeBerg, et al are perfect!
+
+5. We want everything to be natural and not-so-geeky
+- We hear you!
+  - We're working on better alternatives
+  - Would you like to help?
+- And: Natural is mostly what you're used to!

@@ -1,5 +1,9 @@
 * Abundance and Partnership as Contexts
 
+If you're curious or weirded out
+[[file:why-orgmode-and-git.org][- /What's with this file format and website?]]/
+- otherwise, don't worry about it!
+
 ** What do we mean by Abundance, etc. as Contexts?
 
 Human Beings are social creatures
@@ -19,12 +23,19 @@ So we don't mean Abundance in the sense of
 although a Context of Abundance and Partnership
 - Can make it more likely you'll get what you need!
 
-Before proceeding
+Before reading any more of this document
 - please read the [[file:Presentations/robin-and-chris-abundance-parable.org][Robin and Chris Parable]]
+
+Note that
+1. The social context you live in has a huge impact on the quality of
+   your life and the difference you life makes.
+2. Regardless of what that external context and what you've absorbed
+   internally, your awareness of these context has the decisive
+   impact!
 
 ** Abundance Resources
 
-Please explore our
+Please explore our 
 
 - [[file:RESOURCES.org][Resources on Abundance and Partnership Context]]
 
