@@ -267,13 +267,12 @@ that are usually very confusing
 
 ** Notes for Improvement
 
-Maslov's Hierarchy?
+- Jonathan Haidt, The Righteous Mind
+- Maslov's Hierarchy?
 
 *** Improving the Table / Flyer
 
 - More adjectives
-  - Add
-    - Power Over
 - Put a glossary of terms on the other side.
 
 ** Actions
@@ -283,7 +282,10 @@ Maslov's Hierarchy?
 - Invite people to watch key videos together
   - With discussions afterwards
 - Practice Active Listening!
-
+- Keep looking for where Dominator Context has infected you
+  - And organizations which represent you, etc.
+  - Notice any blaming, shaming, finding fault, pointing fingers
+    
 ** Related Resources
 
 *** NVC
@@ -335,24 +337,7 @@ possible in a new group, community or society.
 - H.G. Wells: Men Like Gods
 - Robert Heinlein: Stranger in a Strange Land
 - Ursula LeGuin: The Dispossessed
-
-** From Otter Notes
-**** Elements
-
-*****  Chris & Dana scenario
-
-- Present Scenario
-- Ask Questions
-  - Have them simultaneously address
-    - Where is there Abundance?
-    - Where is there Scarcity?
-
-***** Nested Games
-
-Entertaining 0-sum games
-- 0-sum doesn't exist in reality!
-
-BDSM Scenes
+- Starhawk: The Fifth Sacred Thing
 
 **** Game
 

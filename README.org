@@ -1,7 +1,6 @@
 * Abundance and Partnership as Contexts
 
-Optional, but if you're curious or weirded out
-[[file:why-orgmode-and-git.org][- /What's with this file format and website?]]/
+[[file:why-orgmode-and-git.org][- This document uses OrgMode]]
 
 ** What do we mean by Abundance, etc. as Contexts?
 
