@@ -1,6 +1,8 @@
-* Actualizing Abundance
+* Activating Partnership Culture
 - A Workshop for Winter Camp 2026
-- Presenter's Notes *DRAFT*
+- Presenter's Notes
+- DRAFT
+- Not yet for independent reading 
 
 ** This workshop is designed for
   - Discovering the source and essence of New Culture
@@ -8,11 +10,13 @@
   - Identifying our allies, despite superficial differences
   - Gently addressing Default Culture Contamination in ourselves and others!
 
+We'll give you a Magic Decoder Ring for identifying  New Culture in all of its guises!
+
 I use the Burning Man term /Default Culture/ for the mainstream
 culture of America.  I like the term because it's non-judgmental.
 We'll learn more about it's nature in a few minutes!
 
-** Some Windows into My Background
+** Some of My Background
 - I've lived in a small Intentional Community for 50 years
   - Surrounded by and overlapping with other experimental communities
 - I'm A Deviant!
@@ -22,7 +26,7 @@ We'll learn more about it's nature in a few minutes!
       - What some people call an *Aspie* or someone with Asperger's Syndrome
       - I've invested a lot of work developing my Social Intelligence.
         - It was well worth it!
-    - I'm also Queer :: Non-Binary and Gray-Sexual!
+    - I'm also Queer :: Non-Binary and Demi-Sexual!
   - My deviance partially immunized me from being infected by The
     Default Culture - I consider that to be a win!
 - I deeply love people
@@ -41,7 +45,8 @@ We'll learn more about it's nature in a few minutes!
 - I lived in an Intentional Community when I was in college
   - We all did the /est Training/ where
   - I discovered that I was close-minded and arrogant!
-  - Oops!  I needed to fix that!
+  - Oops!
+  - I needed to fix that!
   - Fortunately, I had a community to help me!
 - *Fast forward some years:*
 - I started attending New Culture Summer Camp
@@ -62,7 +67,7 @@ We'll learn more about it's nature in a few minutes!
   - And I'm a founding member of Poly Paradise Village
     - Where I run The Human Carcass Wash!
 
-*How Lucky can a Queer Aspie get?*
+*How Lucky can a Queer Aspie One-time Social Outcast get?*
 
 *Does anyone else feel like you've been privileged to find awesome
 cultural alternatives?*
@@ -81,12 +86,14 @@ As an Aspie this was especially painful.
   better* /New Culture/?
 
 I looked for clues!
-- Psychology?  Eastern Religion?  Advanced est, Landmark & HAI workshops?
-  - All helpful but NOT SUFFICIENT!
+- Psychology?
+- Eastern Religion?
+- Advanced est, Landmark & HAI workshops?
+All helpful but NOT SUFFICIENT!
 
 ** Discovering Riane Eisler
 
-At a Body Electric Workshop at Wildwood near Christmas time we had a
+One Winter Solstice I was at a Body Electric Workshop and we had a
 gift exchange.  I got a copy of Riane Eisler's book /Sacred Pleasure/.
 
 Reading /Sacred Pleasure/ opened my eyes!
@@ -148,13 +155,16 @@ What if you count wins and losses and hold it over people afterwards?
 
 Have them get into groups of 4-6 people.
 
-Pass out the [[file:abundance-vs-scarcity.org][Abundance vs. Scarcity Flyer]]
+Pass out the Decoder Ring, aka the [[file:abundance-vs-scarcity.org][Abundance vs. Scarcity Flyer]]
 
 Go over it /very briefly/!
 
 Group Directions
 - Divide your group into Dominators & Partners!
 - Don't worry, you'll be switching later!
+
+Choose which goes first.
+Coach your "opponents"!
 
 Discuss how you'd handle the following scenarios:
 
@@ -167,9 +177,12 @@ Discuss how you'd handle the following scenarios:
 - What preparations did you do?
 - What will you do now?
 
-SWITCH!
+Switch Dominator - Partnership focus after X minutes.
 
 **** Scenario 2:
+
+SWITCH ROLES!
+
 - Sustainable mostly-automated factories can now produce enough of all
   necessary goods that people need for their basic well-being and
   comfort with few workers needed.
@@ -182,9 +195,12 @@ SWITCH!
 - What is wealth?
 - What is a post-scarcity society?
 
-SWITCH!
+Switch Dominator - Partnership focus after X minutes.
 
 **** Scenario 3:
+
+SWITCH ROLES!
+
 - After many years of universal peace and prosperity
 - A disaster has befallen the whole world!
 - Choose from:
@@ -199,7 +215,8 @@ SWITCH!
 *** One More Piece: Culture Wars
 
 Present Capsule of Jonathan Haidt's work
-- Have this as part of reverse of flyer!
+- Create a flyer for this!
+  - TODO!
 
 **** The Moral Matrix
 
@@ -241,7 +258,6 @@ Present Capsule of Jonathan Haidt's work
 
 ** Test Scenarios
 Let's see if, using this new lens, we can now see through situations
-that are usually very confusing
 
 - Resistance to Mastery Education Anecdote
   - and we now see the whole of the education debacle!
