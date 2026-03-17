@@ -1,5 +1,6 @@
-#+OPTIONS: toc:nil num:nil html-postamble:nil
-* Abundance Culture vs. Scarcity Culture
+#+TITLE: Abundance Culture vs. Scarcity Culture
+#+SUBTITLE: A New Culture Rosetta Stone
+#+OPTIONS: toc:nil num:nil date:nil author:nil html-postamble:nil
 
 |                 | Abundance             | Scarcity                |
 |-----------------+-----------------------+-------------------------|
@@ -45,4 +46,4 @@
 
 More information at [[https://github.com/TouchPuuhonua/Abundance#readme][My Abundance GitHub Repository]]
 
-Or browse [[https://touchpuuhonua.github.io/][my new GitHub website]] which is Open During Redesign and Reconstruction!
+Or browse [[https://touchpuuhonua.github.io/][my (draft) website]]
